@@ -7,7 +7,7 @@ Nashville's open data database, and features a brief dashboard examining some of
 1. Number of permit applications by Greater Nashville area zipcode
 2. The top five zip codes with the highest number of permit applications, decreasing from left to right, and a breakdown of what types of building permits are being
   applied for in these areas.
-  - further exploration of this data is available in Tableau/the corresponding .twb file, but does not translate well to powerpoint format exported for use here.
+    - further exploration of this data is available in Tableau/the corresponding .twb file, but does not translate well to powerpoint format exported for use here.
 3. The number of permits applied for by permit type
 4. The cost of construction by permit type (which differs from point 2 since not all permit applications are accepted). Again, refer to the caveat above regarding 
   Tableau vs. Powerpoint view.
